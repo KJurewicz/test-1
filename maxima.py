@@ -9,3 +9,7 @@ def find_maxima(arr):
     print index
 
 find_maxima([4,2,3])
+find_maxima([0,2,3])
+
+
+"pIES"
