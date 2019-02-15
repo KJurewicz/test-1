@@ -1,4 +1,4 @@
-
+"TRZECI PIES"
 
 
 def find_maxima(arr):
